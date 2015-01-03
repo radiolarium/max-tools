@@ -5,7 +5,9 @@ collection of max helpers
 
 Voss Generator
 --------------
-See [Loy_1-2006] p.357-360.
+See:
+http://www.scholarpedia.org/article/1/f_noise#Music.2C_time_perception.2C_memory.2C_and_reaction_times
+Implementation details: [Loy_1-2006] p.357-360.
 
 * voss.maxpat
 * voss_generator.js

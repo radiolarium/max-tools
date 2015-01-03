@@ -12,4 +12,4 @@ See [Loy_1-2006] p.357-360.
 
 References
 -----------
-* [Loy_1-2006]: Loy, Gareth. 2006. "Musimathics. The mathematical foundations of music. Volume 1".
+* [Loy_1-2006] Loy, Gareth. 2006. "Musimathics. The mathematical foundations of music. Volume 1".
